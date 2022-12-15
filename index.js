@@ -296,7 +296,7 @@ function openNav(movie) {
         `
         overlayContent.innerHTML = content;
         
-        activeSlide=0;
+        //activeSlide=0;
         showVideos();
       }
       else{
